@@ -3,7 +3,7 @@ def my_cool_test_method():
 
 
 class GreatThing:
-    def __init__(self, datasource_config):
+    def __init__(self):
         self.name = "Goar"
         self.age = 46
         
