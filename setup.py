@@ -6,7 +6,7 @@ setup(
     description='My private package from private github repo',
     url=' https://github.com/Goar/pip_package',
     author='Goar Orue Sanchez',
-    author_email='goaroue@gamil.com',
+    author_email='goaroue@gmail.com',
     license='unlicense',
     packages=['pip_package'],
     zip_safe=False
