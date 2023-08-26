@@ -4,7 +4,7 @@ setup(
     name='pip_package',
     version='0.0.1',
     description='My private package from private github repo',
-    url=' https://github.com/Goar/pip_package',
+    url='git://git@github.com/Goar/pip_package.git',
     author='Goar Orue Sanchez',
     author_email='goarorue@gmail.com',
     license='unlicense',
